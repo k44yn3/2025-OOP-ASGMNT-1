@@ -1,8 +1,13 @@
 ## Requirements
 
 * Java
+  ```bash
+  winget install java 
+  ```
 * Git (To clone)
-
+  ```bash
+  winget install Git.Git
+  ```
 ### To run;
 
 Copy and paste command below in terminal (CMD for Windows)
