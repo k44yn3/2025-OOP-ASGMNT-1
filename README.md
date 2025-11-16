@@ -15,4 +15,4 @@ java tuitionsystem01.TuitionSystem
 ```
 ### OR
 
-Download [this folder](TuitionSystem01/src/tuitionsystem01) , copy the codes into your IDE
+Copy this link https://github.com/k44yn3/2025-OOP-ASGMNT-1/tree/880bc1c388a639959c82b47af22a4d6bb9a20a27/TuitionSystem01/src/tuitionsystem01  , go to https://download-directory.github.io/ and paste the link to download.
