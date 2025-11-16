@@ -1,10 +1,11 @@
-To run;
+## Requirements
+
+* Java
+* Git (To clone)
+
+## To run;
 
 Copy and paste command below in terminal (CMD for Windows)
-
-Requirement:
--Java
--Git
 
 ```bash
 git clone https://github.com/k44yn3/2025-OOP-ASGMNT-1.git
