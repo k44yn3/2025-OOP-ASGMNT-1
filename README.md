@@ -3,7 +3,7 @@
 * Java
 * Git (To clone)
 
-## To run;
+### To run;
 
 Copy and paste command below in terminal (CMD for Windows)
 
@@ -13,3 +13,6 @@ cd 2025-OOP-ASGMNT-1/TuitionSystem01/src
 javac tuitionsystem01/*java
 java tuitionsystem01.TuitionSystem
 ```
+OR
+
+Download [Folder](src/tuitionsystem01)
