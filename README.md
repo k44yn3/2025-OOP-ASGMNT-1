@@ -1,23 +1,24 @@
-## Requirements for Windows
-
-* Java
-  ```bash
-  winget install java 
-  ```
-* Git (To clone)
-  ```bash
-  winget install Git.Git
-  ```
-### To run;
+## To run;
 
 Copy and paste command below in terminal (CMD)
 
 ```bash
-winget install java
+:: Install Java (if not installed)
+winget install Oracle.JavaRuntimeEnvironment
+
+:: Install Git (if not installed)
 winget install Git.Git
+
+:: Clone the repository
 git clone https://github.com/k44yn3/2025-OOP-ASGMNT-1.git
+
+:: Enter project directory
 cd 2025-OOP-ASGMNT-1/TuitionSystem01/src
-javac tuitionsystem01/*java
+
+:: Compile
+javac tuitionsystem01/*.java
+
+:: Run
 java tuitionsystem01.TuitionSystem
 ```
 ### OR
